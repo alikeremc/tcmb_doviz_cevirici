@@ -1,2 +1,3 @@
-print("Merhaba Dolar")
+print("Merhaba Dolar/Euro")
 
+print("Merhaba GitHub")
